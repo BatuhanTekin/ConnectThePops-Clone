@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da22674bcdbc44c48f875829d74f2845, type: 3}
+  m_Name: BubbleDataSo
+  m_EditorClassIdentifier: 
+  bubbleColorArray:
+  - {r: 0.909804, g: 0.4039216, b: 0.56078434, a: 1}
+  - {r: 0.882353, g: 0.34509805, b: 0.227451, a: 1}
+  - {r: 0.9960785, g: 0.73333335, b: 0.18823531, a: 1}
+  - {r: 0.8980393, g: 0.5058824, b: 0.227451, a: 1}
+  - {r: 0.454902, g: 0.7960785, b: 0.32156864, a: 1}
+  - {r: 0.30588236, g: 0.8235295, b: 0.64705884, a: 1}
+  - {r: 0.40784317, g: 0.7411765, b: 0.91372555, a: 1}
+  - {r: 0.40899786, g: 0.49746093, b: 0.8584906, a: 1}
+  - {r: 0.7136815, g: 0.49991098, b: 0.7735849, a: 1}
+  bubbleSpriteArray:
+  - {fileID: 0}
+  - {fileID: 21300000, guid: cbe93755182be664296098f674a9347f, type: 3}
+  spriteFrequency: 9
+  levelTargetMerge: 10
